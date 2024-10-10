@@ -1,0 +1,7 @@
+{
+    "wake.compiler.solc.remappings": [
+        "@ethereum-waffle/=node_modules/@ethereum-waffle/",
+        "eth-gas-reporter/=node_modules/eth-gas-reporter/",
+        "hardhat/=node_modules/hardhat/"
+    ]
+}
